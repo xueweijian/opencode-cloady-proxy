@@ -1,0 +1,14 @@
+{
+  "name": "opencode-cloady-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "OpenCode API reverse proxy (muse geogate bypass) — Cloady / any Node host",
+  "type": "module",
+  "main": "server.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
